@@ -21,8 +21,8 @@ export default function RootLayout({
       <body className={`${inter.className} md:mx-6 mx-2 select-none`}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           {children}
-          <Analytics />
           <SiteFooter />
+          <Analytics />
         </ThemeProvider>
       </body>
     </html>

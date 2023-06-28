@@ -2,18 +2,17 @@ import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/ca
 import Link from "next/link";
 
 type Props = {
-    title: string;
     description: string;
     link: string;
 };
 
-export function ItemCard({ title, description, link }: Props) {
+export function ItemCard({ description, link }: Props) {
     return (
-        <Link href={link} target="_blank">
+        <Link href={`https://${link}`} target="_blank">
             <Card className="w-[350px] m-2 hover:bg-accent">
                 <CardHeader>
-                    <CardTitle>{title}</CardTitle>
-                    <CardDescription>{description}</CardDescription>
+                    <CardTitle>{link}</CardTitle>
+                    <CardDescription className="capitalize">{description}</CardDescription>
                 </CardHeader>
             </Card>
         </Link>
