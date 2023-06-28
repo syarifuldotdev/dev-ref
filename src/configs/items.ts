@@ -7,6 +7,7 @@ export const Items = [
         description: "Comprehensive tech career roadmap and learning guide.",
         link: "https://roadmap.sh"
       },
+      ],
   },
   {
     title: "Programming & Development",
