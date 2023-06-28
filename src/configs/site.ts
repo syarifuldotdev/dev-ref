@@ -1,11 +1,11 @@
 export const siteConfig = {
-    name: "Dev List",
-    url: "https://devlist.vercel.app",
+    name: "Dev Ref",
+    url: "https://def-ref.vercel.app",
     description:
-        "Beautifully designed components built with Radix UI and Tailwind CSS.",
+        "A Lists Of Useful Website For Developers",
     links: {
         twitter: "https://twitter.com/syarifuldotdev",
-        github: "https://github.com/syarifuldotdev/devref",
+        github: "https://github.com/syarifuldotdev/dev-ref",
     },
 }
 
