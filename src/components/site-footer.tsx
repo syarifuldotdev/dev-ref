@@ -1,5 +1,5 @@
 
-import { siteConfig } from "@/configs/site"
+import { siteConfig } from "@/config/site"
 import Link from "next/link"
 
 export function SiteFooter() {

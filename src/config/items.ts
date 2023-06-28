@@ -1,5 +1,5 @@
 // DO NOT SPECIFY HTTPS:// OR WWW.
-
+// LINK AND description ARE REQUIRED
 
 export const Items = [
   {

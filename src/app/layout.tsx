@@ -3,6 +3,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 import { Analytics } from '@vercel/analytics/react';
 import { Inter } from 'next/font/google';
 import './globals.css';
+import { ModeToggle } from '@/components/dark-toggle';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -20,6 +21,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className} md:mx-6 mx-2 select-none`}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+          <div className="flex justify-end">
+            <ModeToggle />
+          </div>
           {children}
           <SiteFooter />
           <Analytics />

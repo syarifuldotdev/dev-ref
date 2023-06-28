@@ -1,5 +1,5 @@
 import { ItemCard } from "@/components/itemCard";
-import { Items } from "@/configs/items";
+import { Items } from "@/config/items";
 
 export default function Home() {
   return (
@@ -24,8 +24,6 @@ export default function Home() {
           </div>
         ))}
       </div>
-
-
 
     </>
   );
