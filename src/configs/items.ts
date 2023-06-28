@@ -7,6 +7,16 @@ export const Items = [
         description: "Comprehensive tech career roadmap and learning guide.",
         link: "https://roadmap.sh"
       },
+      {
+        title: "svgviewer.dev",
+        description: "Online tool for viewing and manipulating SVG files.",
+        link: "https://svgviewer.dev",
+      },
+      {
+        title: "tinywow.com",
+        description: "Free Al Writing, PDF, Image, and other Online Tools",
+        link: "https://tinywow.com",
+      }
       ],
   },
   {
