@@ -228,8 +228,7 @@ export const Items = [
         link: "https://designshack.net",
       },
       {
-        title: "envato.com",
-        description: "Themes, templates, and digital assets",
+        title: "envato.com",        description: "Themes, templates, and digital assets",
         link: "https://envato.com",
       },
       {
@@ -254,87 +253,6 @@ export const Items = [
       },
     ],
   },
-  {
-    title: "Freelancing & Job Opportunities",
-    items: [
-      {
-        title: "upwork.com",
-        description: "Find freelancers and freelance jobs",
-        link: "https://www.upwork.com",
-      },
-      {
-        title: "freelancer.com",
-        description: "Freelance jobs and freelancers",
-        link: "https://www.freelancer.com",
-      },
-      {
-        title: "toptal.com",
-        description: "Hire the top 3% of freelance talent",
-        link: "https://www.toptal.com",
-      },
-      {
-        title: "fiverr.com",
-        description: "Freelance services marketplace",
-        link: "https://www.fiverr.com",
-      },
-      {
-        title: "remoteok.io",
-        description: "Remote job board",
-        link: "https://remoteok.io",
-      },
-      {
-        title: "angel.co",
-        description: "Startup jobs and angel investments",
-        link: "https://angel.co",
-      },
-      {
-        title: "simplyhired.com",
-        description: "Job search engine",
-        link: "https://www.simplyhired.com",
-      },
-      {
-        title: "indeed.com",
-        description: "Job search engine",
-        link: "https://www.indeed.com",
-      },
-      {
-        title: "linkedin.com/jobs",
-        description: "Professional networking and job search",
-        link: "https://www.linkedin.com/jobs",
-      },
-      {
-        title: "glassdoor.com",
-        description: "Company reviews, salaries, and interviews",
-        link: "https://www.glassdoor.com",
-      },
-      {
-        title: "dice.com",
-        description: "Tech job search",
-        link: "https://www.dice.com",
-      },
-      {
-        title: "authenticjobs.com",
-        description: "Design, development, and creative job opportunities",
-        link: "https://www.authenticjobs.com",
-      },
-      {
-        title: "weworkremotely.com",
-        description: "Remote jobs in programming, design, and more",
-        link: "https://weworkremotely.com",
-      },
-      {
-        title: "flexjobs.com",
-        description: "Flexible jobs and remote work",
-        link: "https://www.flexjobs.com",
-      },
-      {
-        title: "remote.co",
-        description: "Remote jobs and virtual teams",
-        link: "https://remote.co",
-      },
-    ],
-  },
-  
   {
     title: "Database & Cloud Services",
     items: [
