@@ -1,5 +1,14 @@
 export const Items = [
   {
+    title: "Editor's Choice",
+    items: [
+      {
+        title: "roadmap.sh",
+        description: "Comprehensive tech career roadmap and learning guide.",
+        link: "https://roadmap.sh"
+      },
+  },
+  {
     title: "Programming & Development",
     items: [
       {
