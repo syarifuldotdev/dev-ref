@@ -19,10 +19,11 @@ export default function Home() {
                 <div key={j}>
                   <ItemCard description={item.description} link={item.link} />
                 </div>
-              ))}
+               ))}
             </div>
           </div>
         ))}
+
       </div>
 
     </>

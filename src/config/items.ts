@@ -1,6 +1,6 @@
-// DO NOT SPECIFY HTTPS:// OR WWW.
+// DO NOT SPECIFY HTTPS:// OR HTTP:// OR WWW.
 // LINK AND description ARE REQUIRED
-
+// example.com/page IS ALLOWED
 export const Items = [
   {
     category: "Editor's Choice",
@@ -108,7 +108,7 @@ export const Items = [
       },
       {
         description: "Learn C++ programming",
-        link: "http://cplusplus.com",
+        link: "cplusplus.com",
       },
       {
         description: "Official website of the Python programming language",
@@ -138,10 +138,7 @@ export const Items = [
         description: "Open-source machine learning framework",
         link: "tensorflow.org",
       },
-      {
-        description: "Real-time 3D development platform",
-        link: "unity.com",
-      },
+      
     ],
   },
   {

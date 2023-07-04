@@ -11,7 +11,7 @@ export function ItemCard({ description, link }: Props) {
         <Link href={`https://${link}`} target="_blank">
             <Card className="w-[350px] m-2 hover:bg-accent">
                 <CardHeader>
-                    <CardTitle>{link}</CardTitle>
+                    <CardTitle className="lowercase">{link}</CardTitle>
                     <CardDescription className="capitalize">{description}</CardDescription>
                 </CardHeader>
             </Card>
