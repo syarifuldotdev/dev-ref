@@ -11,7 +11,7 @@ export function SiteFooter() {
                     <div>
                         Built by{" "}
                         <Link href={siteConfig.links.twitter} target="_blank" rel="noreferrer" className="font-medium underline underline-offset-4">syarifuldotdev</Link>.
-                        <Link href={siteConfig.links.github} target="_blank" rel="noreferrer" className="font-medium underline underline-offset-4">GitHub</Link>.
+                    
                     </div>
                 </p>
             </div>
