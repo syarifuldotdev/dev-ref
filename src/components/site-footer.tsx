@@ -10,7 +10,7 @@ export function SiteFooter() {
                     <div>Missing Useful Website? <Link className="font-medium underline underline-offset-4" href={siteConfig.links.github}>Contribute Here</Link>.</div>
                     <div>
                         Built by{" "}
-                        <Link href={siteConfig.links.twitter} target="_blank" rel="noreferrer" className="font-medium underline underline-offset-4">syarifuldotdev</Link>. The source code is available on{" "}
+                        <Link href={siteConfig.links.twitter} target="_blank" rel="noreferrer" className="font-medium underline underline-offset-4">syarifuldotdev</Link>.
                         <Link href={siteConfig.links.github} target="_blank" rel="noreferrer" className="font-medium underline underline-offset-4">GitHub</Link>.
                     </div>
                 </p>
