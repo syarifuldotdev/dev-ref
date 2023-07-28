@@ -17,7 +17,7 @@ export const Items = [
         description: "Free Al Writing, PDF, Image, and other Online Tools",
         link: "tinywow.com",
       }
-      ],
+    ],
   },
   {
     category: "Programming & Development",
@@ -25,6 +25,10 @@ export const Items = [
       {
         description: "The world's largest web developer site",
         link: "w3schools.com",
+      },
+      {
+        description: "Platform for version control and collaboration",
+        link: "github.com",
       },
       {
         description: "A comprehensive tutorial website",
@@ -37,10 +41,6 @@ export const Items = [
       {
         description: "Q&A community for developers",
         link: "stackoverflow.com",
-      },
-      {
-        description: "Platform for version control and collaboration",
-        link: "github.com",
       },
       {
         description: "Learn to code interactively",
@@ -106,39 +106,7 @@ export const Items = [
         description: "Free online courses, lessons, and practice",
         link: "khanacademy.org",
       },
-      {
-        description: "Learn C++ programming",
-        link: "cplusplus.com",
-      },
-      {
-        description: "Official website of the Python programming language",
-        link: "python.org",
-      },
-      {
-        description: "Official website of the Ruby programming language",
-        link: "ruby-lang.org",
-      },
-      {
-        description: "Official website of the PHP programming language",
-        link: "php.net",
-      },
-      {
-        description: "Official website of the Java programming language",
-        link: "java.com",
-      },
-      {
-        description: "Official website of the .NET platform",
-        link: "dotnet.microsoft.com",
-      },
-      {
-        description: "Resources for Apple developers",
-        link: "developer.apple.com",
-      },
-      {
-        description: "Open-source machine learning framework",
-        link: "tensorflow.org",
-      },
-      
+
     ],
   },
   {
@@ -385,5 +353,50 @@ export const Items = [
         link: "grammarly.com",
       },
     ],
+  },
+  {
+    category: "Unsorted",
+    items: [
+      {
+        "description": "Web development resources.",
+        "link": "developer.mozilla.org"
+      },
+      {
+        "description": "Creative courses on an online learning platform.",
+        "link": "skillshare.com"
+      },
+      {
+        "description": "Tech-focused online learning platform.",
+        "link": "udacity.com"
+      },
+      {
+        "description": "Professional skills and software tutorials.",
+        "link": "linkedin.com/learning"
+      },
+      {
+        "description": "Free course materials from MIT.",
+        "link": "ocw.mit.edu"
+      },
+      {
+        "description": "Online learning from Stanford University.",
+        "link": "online.stanford.edu"
+      },
+      {
+        "description": "Improve coding skills through coding challenges.",
+        "link": "codewars.com"
+      },
+      {
+        "description": "Online courses and certifications in various disciplines.",
+        "link": "eict.de"
+      },
+      {
+        "description": "Conversational AI language model by OpenAI.",
+        "link": "chat.openai.com"
+      },
+      {
+        "description": "Learn tech skills with bite-sized video tutorials.",
+        "link": "egghead.io"
+      },
+    ]
   },
 ];
