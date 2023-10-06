@@ -16,7 +16,11 @@ export const Items = [
       {
         description: "Free Al Writing, PDF, Image, and other Online Tools",
         link: "tinywow.com",
-      }
+      },
+      {
+        description: "2100+ tools for Designers",
+        link: "thestocks.im",
+      },
     ],
   },
   {
