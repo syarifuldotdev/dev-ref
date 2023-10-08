@@ -21,6 +21,10 @@ export const Items = [
         description: "2100+ tools for Designers",
         link: "thestocks.im",
       },
+      {
+        description: "ree all-in-one toolbox that offers various online tools for different purposes.",
+        link: "10015.io",
+      },
     ],
   },
   {
